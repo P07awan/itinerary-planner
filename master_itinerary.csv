@@ -1,0 +1,31 @@
+poi_id,name,category,avg_visit_time_hrs,entry_fee_inr,best_season,popularity_score,tags,budget_inr,latitude,longitude,description,opening_hours
+P001,Hundru Falls,Waterfall,2,20,Monsoon-Winter,0.9,"nature,adventure,photography",120,23.37,85.44,Famous waterfall near Ranchi,8AM-5PM
+P002,Jonha Falls,Waterfall,2,10,Monsoon-Winter,0.85,"nature,adventure",110,23.32,85.58,Popular hanging valley falls,8AM-5PM
+P003,Dassam Falls,Waterfall,2,10,Monsoon-Winter,0.88,"nature,adventure",110,23.25,85.68,Known for scenic beauty,8AM-5PM
+P004,Patratu Valley,Valley,3,0,Winter-Summer,0.92,"nature,roadtrip,photography",300,22.65,85.5,Cluster of five waterfalls,8AM-5PM
+P005,Netarhat,HillStation,5,0,Winter-Summer,0.95,"nature,hillstation,romantic",300,23.47,84.27,"Queen of Chotanagpur, scenic sunsets",Open 24H
+P006,Mirchaiya Waterfalls,Waterfall,2,0,Monsoon-Winter,0.8,"nature,hidden,adventure",100,23.67,85.28,Scenic valley and lake,Open 24H
+P007,Betla National Park,Wildlife,6,50,Winter,0.88,"wildlife,adventure,eco",650,23.72,84.12,Wildlife safari with elephants and tigers,6AM-6PM
+P008,Palamu Fort,Historical,2,25,Winter,0.78,"historical,heritage",125,23.9,84.1,17th-century historical fort,9AM-6PM
+P009,Ranchi Lake,Lake,1,0,All Seasons,0.82,"lake,boating,photography",100,23.65,84.9,Known as mini-England,Open 24H
+P010,Nakshatra Van,Park,1,0,All Seasons,0.75,"family,park,nature",100,23.38,85.33,Artificial garden with sculptures,9AM-6PM
+P011,Jagannath Temple,Religious,2,10,All Seasons,0.87,"religious,spiritual",110,23.38,85.33,Scenic lake in Ranchi city,6AM-6PM
+P012,Pahari Mandir,Religious,1,0,All Seasons,0.85,"religious,photography",100,23.36,85.32,Hilltop Shiva temple with city view,5AM-8PM
+P013,Deoghar,Religious,5,0,All Seasons,0.95,"religious,spiritual",300,23.34,85.28,Famous temple in Ranchi,6AM-7PM
+P014,Baidyanath Dham,Religious,4,0,All Seasons,0.95,"religious,spiritual",300,24.49,86.7,"Jyotirlinga temple, major pilgrimage",5AM-9PM
+P015,Parasnath Hill,Religious,6,0,Winter,0.9,"trekking,religious,spiritual",600,24.54,87.44,Cluster of terracotta temples,6AM-6PM
+P016,Shikharji,Religious,7,0,Winter,0.92,"jainism,trekking,religious",600,23.98,86.15,Most sacred Jain pilgrimage site,Open 24H
+P017,Madhuban,Religious,3,0,Winter,0.82,"jainism,spiritual",300,23.98,86.15,Major Jain pilgrimage circuit,Open 24H
+P018,Rajrappa Temple,Religious,3,0,All Seasons,0.86,"religious,spiritual",300,23.98,85.35,Popular family picnic spot,6AM-6PM
+P019,Birsa Zoological Park,Wildlife,3,30,Winter-Summer,0.83,"wildlife,family",330,24.02,85.35,Home to leopards and deer,6AM-6PM
+P020,Rock Garden,Park,2,20,All Seasons,0.88,"family,photography,nature",120,24.63,87.77,Bird sanctuary with migratory species,6AM-6PM
+P021,Tagore Hill,Hill,2,0,Winter-Summer,0.84,"trekking,nature,heritage",100,22.8,86.2,Beautiful urban park,6AM-7PM
+P022,Jubilee Park,Park,2,0,Winter-Summer,0.9,"family,nature,photography",100,22.87,86.18,Elephant reserve near Jamshedpur,6AM-6PM
+P023,Dalma Wildlife Sanctuary,Wildlife,5,40,Winter,0.89,"wildlife,adventure,eco",340,22.8,86.2,Zoo inside Jubilee Park,8AM-5PM
+P024,Dimna Lake,Lake,3,0,Winter-Summer,0.82,"nature,boating,photography",300,22.85,86.27,Scenic artificial lake,6AM-6PM
+P025,Hazaribagh Lake,Lake,3,0,Winter-Summer,0.8,"nature,photography",300,24.02,87.03,Important temple near Deoghar,6AM-9PM
+P026,Canary Hill,Hill,3,0,Winter-Summer,0.76,"nature,hill,photography",300,23.42,85.3,Peaceful picnic spot,6AM-6PM
+P027,Birsa Munda Museum,Museum,2,20,All Seasons,0.85,"museum,heritage",120,23.39,85.3,Associated with Rabindranath Tagore,6AM-6PM
+P028,Tribal Museum,Museum,2,20,All Seasons,0.8,"museum,tribal,heritage",120,23.38,85.27,Cluster of temples near Ranchi,6AM-6PM
+P029,Maithon Dam,Dam,4,0,Winter-Summer,0.88,"dam,boating,nature",300,23.5,85.88,Tantrik temple in Rajrappa,6AM-6PM
+P030,Tilaiya Dam,Dam,3,0,Winter-Summer,0.82,"dam,nature,photography",300,23.4,85.35,Famous Shiva temple near Ranchi,6AM-8PM
